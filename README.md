@@ -1,4 +1,6 @@
 # Chord Provider
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Chord-Provider&type=Date)](https://star-history.com/#rudrankriyam/Chord-Provider&Date)
+
 
 ## A [ChordPro](https://www.chordpro.org) file parser and editor for macOS, iPadOS and visionOS
 
