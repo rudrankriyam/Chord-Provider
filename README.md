@@ -1,5 +1,4 @@
 # Chord Provider
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Chord-Provider&type=Date)](https://star-history.com/#rudrankriyam/Chord-Provider&Date)
 
 
 ## A [ChordPro](https://www.chordpro.org) file parser and editor for macOS, iPadOS and visionOS
@@ -87,3 +86,5 @@ Xcode 15 is required.
 1. Clone the project.
 2. Change the signing certificate to your own.
 2. Build and run!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Chord-Provider&type=Date)](https://star-history.com/#rudrankriyam/Chord-Provider&Date)
